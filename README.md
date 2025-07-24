@@ -38,11 +38,11 @@ Here are a few projects I've worked on:
 
 ## 🗣️ Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📫 Email: shivansh@example.com  
-- 🌐 Portfolio (if available): [yourwebsite.com](http://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivansh-404057292/)  
+- 📫 Email: shivanshshukla1405@gmail.com  
+- 🌐 Portfolio: [yourwebsite.com](http://yourwebsite.com)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+“Code is like humor. When you have to explain it, it’s bad.” 
 
